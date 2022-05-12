@@ -1,4 +1,4 @@
-# 3dwrx-Beckhoff-Terminal-Tablet-Holder
+# 3dwrx-beckhoff-terminal-tablet-holder
 Link to the design on Thingiverse:
 https://www.thingiverse.com/thing:3583986/files
 
