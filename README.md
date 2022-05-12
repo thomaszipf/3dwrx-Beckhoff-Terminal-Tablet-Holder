@@ -2,7 +2,7 @@
 Link to the design on Thingiverse:
 https://www.thingiverse.com/thing:3583986/files
 
-## The purpose of -beckhoff-terminal-tablet-holder
+## The purpose of 3dwrx-beckhoff-terminal-tablet-holder
 The 3dwrx-beckhoff-terminal-tablet-holder is a tablet holder for Beckhoffs Industrial Terminals. It has been designed to be placed in front of an industrial HMI/Terminal to allow for user input into additional systems. In practice, the setup process of the machines prior to production had to be recorded. This process required the tablet to be in place until machine has been released by setter. During this time, the tablet is fitted into the brakets and the user can use it hands-free before switching the the next machine.
 
 <p align="center">
