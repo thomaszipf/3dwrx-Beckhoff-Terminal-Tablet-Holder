@@ -9,7 +9,7 @@ The 3dwrx-beckhoff-terminal-tablet-holder is a tablet holder for Beckhoffs Indus
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-Beckhoff-Terminal-Tablet-Holder/blob/main/Images/Beckhoff-Terminal-Tablet-Holder.PNG"
+    src="https://github.com/thomaszipf/3dwrx-Beckhoff-Terminal-Tablet-Holder/blob/main/Images/.PNG"
   >
 </p>
 
