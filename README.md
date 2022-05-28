@@ -3,7 +3,10 @@ Link to the design on Thingiverse:
 https://www.thingiverse.com/thing:3583986/files
 
 ## The purpose of 3dwrx-beckhoff-terminal-tablet-holder
-The 3dwrx-beckhoff-terminal-tablet-holder is a tablet holder for Beckhoffs Industrial Terminals. It has been designed to be placed in front of an industrial HMI/Terminal to allow for user input into additional systems. In practice, the setup process of the machines prior to production had to be recorded. This process required the tablet to be in place until machine has been released by setter. During this time, the tablet is fitted into the brakets and the user can use it hands-free before switching the the next machine.
+The 3dwrx-beckhoff-terminal-tablet-holder is a tablet holder for Beckhoffs Industrial Terminals. 
+The design was inspired by the necessity of better organization of a workplace in production. It is specially designed to be placed in front of an industrial HMI/Terminal and allows the user to input information into an additional systems. 
+In practice, every process that is done in the production facility has to be recorded. That is the case with the setup process of all the machines prior to serial production. This process requires the tablet to be in place until machine has been released by setter/technician. 
+With this product the tablet is fitted into the brakets and the user can use it hands-free before switching to the next machine. Additionally to all the benefits it has, it also saves a lot of space that can be used for better uses.
 
 <p align="center">
   <img 
@@ -14,7 +17,9 @@ The 3dwrx-beckhoff-terminal-tablet-holder is a tablet holder for Beckhoffs Indus
 </p>
 
 ## What are the core features?
-* holds tablet in in position for data entry or other operations
+* holds tablet in a position for data entry or other operations
+* saves space
+* organized workspace
 * optimized to print
 * assembled within 5 minutes using some threaded rods and two nuts
 
